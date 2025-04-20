@@ -1,0 +1,120 @@
+% Request from 176.36.187.3
+% This is the Ukrainian Whois query server #C.
+% The Whois is subject to Terms of use
+% See https://hostmaster.ua/services/
+%
+% IN THE PROCESS OF DELEGATION OF A DOMAIN NAME,
+% THE REGISTRANT IS AN ENTITY WHO USES AND MANAGES A CERTAIN DOMAIN NAME,
+% AND THE REGISTRAR IS A BUSINESS ENTITY THAT PROVIDES THE REGISTRANT
+% WITH THE SERVICES NECESSARY FOR THE TECHNICAL MAINTENANCE OF THE REGISTRATION AND OPERATION OF THE DOMAIN NAME.
+% FOR INFORMATION ABOUT THE REGISTRANT OF THE DOMAIN NAME, YOU SHOULD CONTACT THE REGISTRAR.
+
+domain:           lanet.ua
+dom-public:       NO
+license:          97925
+mnt-by:           ua.imena
+nserver:          ns1.lanet.ua
+nserver:          ns2.lanet.ua
+nserver:          ns3.lanet.ua
+status:           ok
+created:          2008-11-11 13:41:14+02
+modified:         2022-09-05 13:18:10+03
+expires:          2025-11-11 13:41:13+02
+source:           UAEPP
+
+% Glue Records:
+% =============
+nserver:          ns1.lanet.ua
+ip-address:       194.50.85.40
+
+nserver:          ns2.lanet.ua
+ip-address:       194.50.85.140
+
+nserver:          ns3.lanet.ua
+ip-address:       213.169.83.65
+
+% Registrar:
+%
+% The following disclaimer was provided by the domain name registrar
+% ==========
+% Надана інформація є неповною і може містити помилки, пов'язані з особливостями механізмів кешування інформації, несинхронного оновлення реєстрів тощо, тому не є достовірною та надається виключно для ознайомлення.
+% У зв'язку із зазначеним вище, дана інформація не може бути використана з метою вирішення спорів, конфліктів, визначення майнових та немайнових прав тощо.
+% Єдиним джерелом первинних даних про доменне ім'я є реєстратор (registrar) доменного імені, який може надати необхідну інформацію на запит у встановленому законом порядку.
+% 
+% The provided information is incomplete and may contain errors related to the specificity 
+% of information caching mechanisms, asynchronous updating of registries, etc., 
+% therefore it is not reliable and is provided for informational purposes only. 
+% In connection with the above, this information can not be used to resolve disputes, 
+% conflicts, determine property and non-property rights, etc.
+% The only source of primary data about the domain name is the registrar of the domain name, 
+% which can provide the required information upon request, in accordance with the procedure established by law.
+% ==========
+registrar:        ua.imena
+organization:     Internet Invest LLC
+organization-loc: ТОВ "Інтернет Інвест"
+url:              http://www.imena.ua
+city:             Kyiv
+country:          UA
+abuse-email:      abuse@imena.ua
+abuse-phone:      +380.442010102
+abuse-postal:     50-B Simi Prakhovykh St., Kyiv, 01033, Ukraine
+abuse-postal-loc: вул. Сім'ї Прахових, 50-Б, м. Київ, 01033, Україна
+source:           UAEPP
+
+% Registrant:
+% ===========
+person:           not published
+person-loc:       not published
+organization-loc: not published
+e-mail:           not published
+address:          n/a
+address-loc:      not published
+phone:            not published
+fax:              not published
+mnt-by:           ua.imena
+status:           ok
+status:           linked
+created:          2017-05-23 13:52:49+03
+modified:         2017-05-23 13:54:33+03
+source:           UAEPP
+
+
+% Administrative Contacts:
+% =======================
+person:           not published
+person-loc:       not published
+organization-loc: not published
+e-mail:           not published
+address:          n/a
+address-loc:      not published
+phone:            not published
+fax:              not published
+mnt-by:           ua.imena
+status:           ok
+status:           linked
+created:          2017-05-23 13:53:34+03
+modified:         2017-05-23 13:54:33+03
+source:           UAEPP
+
+
+% Technical Contacts:
+% ===================
+person:           not published
+person-loc:       not published
+organization-loc: not published
+e-mail:           not published
+address:          n/a
+address-loc:      not published
+phone:            not published
+fax:              not published
+mnt-by:           ua.imena
+status:           ok
+status:           linked
+created:          2017-05-23 13:54:12+03
+modified:         2017-05-23 13:54:34+03
+source:           UAEPP
+
+
+
+% Query time:     3 msec
+
