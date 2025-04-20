@@ -1,0 +1,9 @@
+Server:		192.168.3.1
+Address:	192.168.3.1#53
+
+Non-authoritative answer:
+Name:	lanet.ua
+Address: 194.60.69.112
+Name:	lanet.ua
+Address: 194.60.69.120
+

@@ -1,0 +1,17 @@
+Server:		192.168.3.1
+Address:	192.168.3.1#53
+
+Non-authoritative answer:
+Name:	jut.su
+Address: 104.26.6.135
+Name:	jut.su
+Address: 172.67.72.179
+Name:	jut.su
+Address: 104.26.7.135
+Name:	jut.su
+Address: 2606:4700:20::681a:787
+Name:	jut.su
+Address: 2606:4700:20::681a:687
+Name:	jut.su
+Address: 2606:4700:20::ac43:48b3
+

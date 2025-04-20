@@ -1,0 +1,23 @@
+dig (Domain Information Groper) — еще один DNS-инструмент, мощнее чем nslookup. Показывает более детальную информацию, удобно форматирует ответ и поддерживает много параметров. используется для запросов DNS-серверов.
+
+
+# Получить IP-адресу:
+dig example.com
+
+# Только IP:
+dig +short example.com
+
+# Получить MX-записи:
+dig example.com MX
+
+# Получить NS-записи:
+dig example.com NS
+
+# Полная информация:
+dig example.com ANY
+
+# Использовать свой DNS-сервер:
+dig @8.8.8.8 example.com
+
+Скриптик в папке
+Сохранение аналогично, dig ... > fileDirectory

@@ -1,0 +1,22 @@
+
+; <<>> DiG 9.20.7-1-Debian <<>> @1.1.1.1 lanet.ua
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16578
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;lanet.ua.			IN	A
+
+;; ANSWER SECTION:
+lanet.ua.		1733	IN	A	194.60.69.120
+lanet.ua.		1733	IN	A	194.60.69.112
+
+;; Query time: 19 msec
+;; SERVER: 1.1.1.1#53(1.1.1.1) (UDP)
+;; WHEN: Sun Apr 20 19:53:11 EEST 2025
+;; MSG SIZE  rcvd: 69
+

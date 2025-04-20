@@ -1,0 +1,29 @@
+Server:		192.168.3.1
+Address:	192.168.3.1#53
+
+Non-authoritative answer:
+Name:	example.com
+Address: 23.192.228.80
+Name:	example.com
+Address: 23.192.228.84
+Name:	example.com
+Address: 23.215.0.136
+Name:	example.com
+Address: 96.7.128.198
+Name:	example.com
+Address: 23.215.0.138
+Name:	example.com
+Address: 96.7.128.175
+Name:	example.com
+Address: 2600:1406:3a00:21::173e:2e65
+Name:	example.com
+Address: 2600:1406:3a00:21::173e:2e66
+Name:	example.com
+Address: 2600:1406:bc00:53::b81e:94c8
+Name:	example.com
+Address: 2600:1406:bc00:53::b81e:94ce
+Name:	example.com
+Address: 2600:1408:ec00:36::1736:7f24
+Name:	example.com
+Address: 2600:1408:ec00:36::1736:7f31
+

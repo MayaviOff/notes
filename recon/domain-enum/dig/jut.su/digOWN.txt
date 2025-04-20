@@ -1,0 +1,23 @@
+
+; <<>> DiG 9.20.7-1-Debian <<>> @8.8.8.8 jut.su
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23829
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;jut.su.				IN	A
+
+;; ANSWER SECTION:
+jut.su.			300	IN	A	104.26.6.135
+jut.su.			300	IN	A	104.26.7.135
+jut.su.			300	IN	A	172.67.72.179
+
+;; Query time: 135 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Sun Apr 20 19:53:01 EEST 2025
+;; MSG SIZE  rcvd: 83
+
